@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://bjcaasenbrood.github.io/sitemap.xml
+Sitemap: https://BJCaasenbrood.github.io/sitemap.xml
