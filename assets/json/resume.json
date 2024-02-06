@@ -1,11 +1,11 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Brandon Jonathan Caasenbrood",
+    "label": "Nonlinear Dynamics and Control, (Soft) Robotics",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
+    "email": "b.j.caasenbrood@tue.nl",
+    "phone": "(+31) 613-544-227",
+    "url": "https://bjcaasenbrood.github.io",
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
       "address": "2712 Broadway St",
@@ -24,37 +24,65 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
+      "name": "Dynamics and Control group, Department of Mechanical Engineering, Eindhoven University, the Netherlands",
+      "position": "Doctoral Researcher",
       "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
+      "startDate": "`18-Feb-01",
+      "endDate": "'23-Apr-01",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
       "highlights": ["Relativity"]
+    },
+    {
+      "position": "Junior Researcher and Educator",
+      "name": "Dynamics and Control group, Department of Mechanical Engineering, Eindhoven University, the Netherlands",
+      "startDate": "'17-Sep-01",
+      "endDate":  "'22-Oct-01"
     }
   ],
   "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
+    // {
+    //   "organization": "People's Climate March",
+    //   "position": "Lead Organizer",
+    //   "url": "https://example.com",
+    //   "startDate": "2014-04-01",
+    //   "endDate": "2015-04-01",
+    //   "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
+    //   "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+    // }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
+      "institution": "Awarded by the Eindhoven University of Technology, Eindhoven, the Netherlands",
+      "location": "the Netherlands",
       "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "area": "Mechanical Engineering",
+      "studyType": "Doctor of Philosophy (cum laude)",
+      "startDate": "'18-Feb-01",
+      "endDate": "'24-Jan-10",
       "score": "10",
-      "courses": ["Theory of Relativity"]
+      "courses": ["Soft Robotics", "Continuum Mechanics", "Computational Physics"]
+    },
+    {
+      "institution": "Awarded by the Eindhoven University of Technology, Eindhoven, the Netherlands",
+      "location": "the Netherlands",
+      "url": "https://www.uzh.ch/",
+      "area": "Mechanical Engineering",
+      "studyType": "Master of Science (with honors)",
+      "startDate": "'14-Sep-01",
+      "endDate": "''17-Apr-20",
+      "score": "10",
+      "courses": ["Nonlinear Dynamics and Control", "Numerical Optimization", "Robotics"]
+    },
+    {
+      "institution": "Awarded by the Eindhoven University of Technology, Eindhoven, the Netherlands",
+      "location": "the Netherlands",
+      "url": "https://www.uzh.ch/",
+      "area": "Mechanical Engineering",
+      "studyType": "Bachelor of Science",
+      "startDate": "'11-Sep-01",
+      "endDate": "''14-Jun-10",
+      "score": "10",
+      "courses": ["Minor on Applied Physics"]
     }
   ],
   "awards": [
@@ -67,48 +95,48 @@
     }
   ],
   "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
+    // {
+    //   "name": "Machine Learning",
+    //   "date": "2018-01-01",
+    //   "issuer": "Stanford University",
+    //   "url": "https://example.com",
+    //   "icon": "fa-solid fa-location-dot"
+    // },
+    // {
+    //   "name": "Quantum Computing",
+    //   "date": "2018-01-01",
+    //   "issuer": "Stanford University",
+    //   "url": "https://example.com",
+    //   "icon": "fa-solid fa-tag"
+    // },
+    // {
+    //   "name": "Quantum Information",
+    //   "date": "2018-01-01",
+    //   "issuer": "Stanford University",
+    //   "url": "https://example.com",
+    //   "icon": "fa-solid fa-envelope"
+    // },
+    // {
+    //   "name": "Quantum Cryptography",
+    //   "date": "2018-01-01",
+    //   "issuer": "Stanford University",
+    //   "url": "https://example.com",
+    //   "icon": "fa-solid fa-hashtag"
+    // },
+    // {
+    //   "name": "Quantum Communication",
+    //   "date": "2018-01-01",
+    //   "issuer": "Stanford University",
+    //   "url": "https://example.com",
+    //   "icon": "fa-solid fa-calendar"
+    // },
+    // {
+    //   "name": "Quantum Teleportation",
+    //   "date": "2018-01-01",
+    //   "issuer": "Stanford University",
+    //   "url": "https://example.com",
+    //   "icon": "fa-solid fa-clipboard-check"
+    // }
   ],
   "publications": [
     {
@@ -150,13 +178,18 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Dutch",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
       "language": "English",
-      "fluency": "Fluent",
+      "fluency": "Fluent (main language)",
+      "icon": ""
+    },
+    {
+      "language": "German",
+      "fluency": "Basic",
       "icon": ""
     }
   ],
@@ -165,23 +198,18 @@
       "name": "Physics",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Quantum Mechanics"
       ]
     }
   ],
   "references": [
     {
-      "name": "Professor John Doe",
+      "name": "Prof. Henk Nijmeijer",
       "icon": "fa-solid fa-laptop",
       "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     },
     {
-      "name": "Professor John Doe",
+      "name": "Dr. Alexander Pogromsky",
       "icon": "fa-solid fa-thumbtack",
       "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     }
